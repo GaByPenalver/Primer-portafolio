@@ -1,0 +1,38 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #C9DABF;
+}
+
+#inicio{
+    background-color: #C9DABF;
+}
+.custom-bg,
+.custom-height {
+    width: 250px;
+    height: 45px;
+    background-color: #03346E;
+    color: #ffffff;
+    border-radius: 8%;
+}
+
+
+.navbar-brand{
+    font-size: 46px;
+    font-style: italic;
+    color:#03346E;
+}
+.card{
+    background-color: #C9DABF;
+    border: none;  
+}
+
+.title{
+    color:#03346E;
+}
+
+.title2{
+    color:#6482AD;
+}
+
